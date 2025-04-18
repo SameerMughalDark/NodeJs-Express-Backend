@@ -1,0 +1,7 @@
+[
+  { "userID": 1, "userName": "sameer", "gender": "male" },
+  { "userID": 2, "userName": "Haider", "gender": "male" },
+  { "userID": 3, "userName": "Kate", "gender": "female" },
+  { "id": 3, "name": "ALI", "gender": "male" },
+  { "id": 4, "name": "Shahid Zaman", "gender": "female" }
+]

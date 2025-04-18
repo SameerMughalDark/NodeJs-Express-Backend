@@ -1,0 +1,16 @@
+{
+  "name": "pms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SameerAbbas",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
